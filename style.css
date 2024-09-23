@@ -1,0 +1,141 @@
+*, *::after, *::before{
+    margin: 0;
+    padding: 0;
+}
+/*header*/
+#header .nav{
+    background: #e58e26;
+}
+#header .nav ul h1{  
+    font-size: 30px;
+    padding: 10px 40px;
+    color: #fff;
+}
+#header .nav ul{  
+    display: flex;
+    
+}
+#header .nav ul li{  
+    display: inline-block;
+    list-style: none;
+    margin-top: 18px;
+}
+#header .nav ul li a{
+    padding: 10px;
+    margin-right: 90px;
+    color: #fff;
+    text-decoration: none;
+}
+#header .nav ul li a:hover{
+    color: #000000;
+}
+/*content side*/
+
+#header .content{
+    background: #fff;
+}
+#header .content p{
+    margin-left: 100px;
+    margin-top: 45px;
+    font-size: 30px;
+    border-bottom: 2px solid #ddd;
+    width: 58%;
+}
+#header .content .login_form .name1{
+    margin-left: 100px;
+    margin-top: 20px;
+    display: block;
+}
+#header .content .login_form .name2{
+    margin-left: 100px;
+    display: block;
+}
+#header .content .login_form input{
+    margin-left: 100px;
+    margin-bottom: 5px;
+    display: block;
+}
+#header .content .login_form input[type="text"]{
+    width: 50%;
+    height: 30px;
+}
+#header .content .login_form input[type="password"]{
+    width: 50%;
+    height: 30px;
+    
+}
+#header .content .login_form input[type="submit"]{
+    margin-top: 10px;
+    height: 30px;
+    background-color: #e58e26;
+    border: #e58e26;
+    width: 15%;
+    display: inline-block;
+    transition: 0.5s;
+}
+#header .content .login_form input[type="submit"]:hover{
+   background: #0c2461;
+   color: #fff;
+   cursor: pointer;
+}
+#header .content .login_form input[type="button"]{
+    display: inline-block;
+    margin-top: 10px;
+    height: 30px;
+    background-color: #e58e26;
+    border: #e58e26;
+    width: 15%;
+    margin-left: 5px;
+    transition: 0.5s;
+}
+#header .content .login_form input[type="button"]:hover{
+    background: #0c2461;
+    color: #fff;
+    cursor: pointer;
+ }
+#header .content .login_form ul{
+    margin-top: 7px;
+}
+#header .content .login_form ul li{
+    display: inline-block;
+    margin-left: 100px;
+}
+#header .content .login_form ul li a{
+    font-family: sans-serif;
+    text-decoration: none;
+}
+#header .content .login_form ul .link{
+    margin-left: 5px;
+}
+
+#header .content .login_form ul li a:hover{
+    color: #ff0000;
+}
+
+/* footer section start*/
+#footer{
+    background: #e58e26;
+    padding: 20px 20px;
+    margin-top: 40px;
+}
+#footer .main_footer{
+    color: #fff;
+    display: flex;
+    margin-top: 30px;
+}
+#footer .main_footer a{
+    text-decoration: none;
+    margin-left: 150px;
+    color: #000;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+#footer .main_footer a:hover{
+    color: #fff;
+}
+#footer .main_footer p{
+    width: 30px;
+    margin-left: 150px;
+    margin-top: 8px;
+    
+}
