@@ -1,0 +1,143 @@
+<!-- GitHub Profile README for MD Zisan Uddin. Repository name must match username: Zisan10. -->
+<div align="center">
+  <img src="assets/profile-banner.png" alt="MD Zisan Uddin — MERN Stack Web Developer" width="100%" />
+  <h1>Hi, I'm MD Zisan Uddin 👋</h1>
+  <h3>💻 MERN Stack Web Developer | Building Responsive Web Experiences</h3>
+  <p>
+    <a href="https://github.com/Zisan10"><img src="https://img.shields.io/badge/GitHub-Zisan10-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/mdzisanduddin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:mdzisanduddin935@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+  <p><img src="https://komarev.com/ghpvc/?username=Zisan10&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" /></p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **MERN Stack Web Developer** based in **Kushtia, Bangladesh**, with hands-on experience building responsive websites and full-stack web applications. I work with React.js, Next.js, Node.js, Express.js, and MongoDB, and have experience with REST API integration, CRUD operations, authentication, Git/GitHub, and deployment.
+
+- 💻 Building responsive interfaces and practical web applications.
+- 🌱 Continuously improving my full-stack development skills.
+- 🔌 Turning UI/UX designs into working interfaces and integrating REST APIs.
+- 🧑‍🏫 Experienced in teaching programming fundamentals.
+- 📍 Kushtia, Bangladesh
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap" />
+</p>
+
+**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" alt="Git, GitHub, VS Code, Netlify" />
+</p>
+
+**Core Skills**
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration-0EA5E9?style=flat-square" alt="REST API integration" />
+  <img src="https://img.shields.io/badge/CRUD-Applications-8B5CF6?style=flat-square" alt="CRUD applications" />
+  <img src="https://img.shields.io/badge/Responsive-Web%20Design-10B981?style=flat-square" alt="Responsive web design" />
+  <img src="https://img.shields.io/badge/Authentication-JWT-F59E0B?style=flat-square" alt="Authentication and JWT" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio Website</h3>
+      <p>A portfolio presenting my projects, technical skills, and professional information.</p>
+      <p><strong>Built with:</strong> React.js, Tailwind CSS, JavaScript</p>
+      <a href="https://md-zisan-uddin-portfolio.netlify.app/">🔗 Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ E-Commerce Website</h3>
+      <p>A full-stack store with authentication, product management, cart functionality, and checkout workflows.</p>
+      <p><strong>Built with:</strong> React, Node.js, Express.js, MongoDB, Tailwind CSS, JWT</p>
+      <a href="https://e-commerce-website-logic-build.netlify.app/">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧺 Grocery Website</h3>
+      <p>A multi-page website with a responsive layout and structured page navigation.</p>
+      <p><strong>Built with:</strong> HTML, CSS, JavaScript</p>
+      <a href="https://multipages-website.netlify.app/">🔗 Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 Register Form</h3>
+      <p>A responsive registration form built with React and structured input fields.</p>
+      <p><strong>Built with:</strong> React.js</p>
+      <a href="https://register-form-create-by-mdzisan.netlify.app/">🔗 Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zisan10&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" alt="GitHub statistics for Zisan10" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Zisan10&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=BC8CFF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak for Zisan10" />
+</div>
+
+### 💻 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zisan10&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages in repositories for Zisan10" />
+</div>
+<p align="center"><sub>Stats are generated by external services. Language percentages reflect repository code those services can access, not overall skill level. Cards may occasionally be unavailable.</sub></p>
+
+---
+
+## 🎯 My Goals
+- 📚 Deepen my knowledge of React.js, Next.js, and full-stack architecture.
+- 🏗️ Build useful projects with clean, maintainable code.
+- 🔐 Improve my understanding of authentication, API design, and secure workflows.
+- 🤝 Collaborate with developers and contribute to meaningful projects.
+- 🧑‍🏫 Share what I learn and help others understand programming.
+
+---
+
+## 💼 Experience & Education
+
+**Freelance Web Developer** · *2024–Present*
+- Develop responsive websites and web applications using modern JavaScript technologies.
+- Convert UI/UX designs into functional interfaces, integrate REST APIs, and deploy projects.
+
+**Programming Trainer** · *Polytechnic Care*
+- Teach programming fundamentals, coding logic, and practical problem-solving.
+
+**Education**
+- Diploma in Computer Science & Technology — **Kushtia Govt. Polytechnic Institute**
+- Expected completion: **2027**
+
+---
+
+## 🌍 Languages
+- Bengali — Native
+- English — Intermediate
+
+---
+
+## 🤝 Let's Connect
+I'm happy to connect with developers, discuss web development, and explore opportunities to build useful digital products.
+
+<div align="center">
+  <a href="https://github.com/Zisan10"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/mdzisanduddin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:mdzisanduddin935@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <h3>✨ Keep learning. Keep building. Keep improving. ✨</h3>
+</div>
